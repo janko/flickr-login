@@ -3,8 +3,8 @@ Gem::Specification.new do |gem|
   gem.name          = "flickr-login"
   gem.authors       = ["Janko Marohnić"]
   gem.email         = ["janko.marohnic@gmail.com"]
-  gem.description   = %q{This is a Rack endpoint that provides Flickr authentication}
-  gem.summary       = %q{}
+  gem.description   = %q{This is a Rack endpoint that provides Flickr authentication. Basically it is a lightweight alternative to the "omniauth-flickr" gem.}
+  gem.summary       = gem.description
   gem.homepage      = "https://github.com/janko-m/flickr-login"
 
   gem.files         = `git ls-files`.split($\)
