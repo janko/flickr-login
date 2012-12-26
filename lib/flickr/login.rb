@@ -1,7 +1,7 @@
 require 'oauth'
 require 'uri'
 
-module Flickr
+class Flickr
   class Login
     DEFAULTS = {
       site: "http://www.flickr.com/services",
