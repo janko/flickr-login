@@ -11,10 +11,10 @@ lightweight. If you don't care about that, I would highly suggest that you go wi
 `omniauth-flickr`, because `omniauth` is a great standard for authentication.
 
 If you intend to use the user's access token for communication with Flickr's
-API, you'll want to use one of this 2 gems:
+API, you'll want to use one of these 2 gems:
 
 - [flickraw](https://github.com/hanklords/flickraw)
-- [flickrie](https://github.com/janko-m/flickrie)
+- [flickr-objects](https://github.com/janko-m/flickr-objects)
 
 ## Installation
 
